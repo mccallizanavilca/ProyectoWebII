@@ -1,17 +1,15 @@
-## Laravel PHP Framework
-Basicamente se trata de un proyecto para Programacion Web II
-## Official Documentation
+## Proyecto Web II -  PHP Framework Laravel
+Basicamente se trata de un proyecto para Programacion Web II- donde se implementara todo el proyecto 
+##  Nombre del proyecto
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
-## Contributing
+## Documentacion
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+## Base de Datos
+
+
 
 ### License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
