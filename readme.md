@@ -13,5 +13,5 @@ Basicamente se trata de un proyecto para Programacion Web II- donde se implement
 
 ### Licencia
 
-### Base de Datos
+### Integrantes
 
