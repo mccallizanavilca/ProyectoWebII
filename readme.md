@@ -1,4 +1,4 @@
-## Proyecto Web II -  PHP Framework Laravel
+## Proyecto Web II -  PHP Framework Laravel 2016
 Basicamente se trata de un proyecto para Programacion Web II- donde se implementara todo el proyecto 
 ##  Nombre del proyecto
 
@@ -11,5 +11,7 @@ Basicamente se trata de un proyecto para Programacion Web II- donde se implement
 
 
 
-### License
+### Licencia
+
+### Base de Datos
 
